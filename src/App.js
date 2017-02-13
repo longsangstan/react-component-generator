@@ -52,6 +52,12 @@ class App extends Component {
           <div className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
             <h2>React Component Generator</h2>
+            <a 
+              href="https://github.com/longsangstan/react-component-generator"
+              style={{color: 'white', textDecoration: 'none'}}
+            >
+              https://github.com/longsangstan/react-component-generator
+            </a>
           </div>
 
           <p>YourComponentName</p>
